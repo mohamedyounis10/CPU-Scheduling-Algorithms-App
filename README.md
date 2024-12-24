@@ -53,7 +53,7 @@ This repository contains two main components:
 
 ### Main Application Interface
 
-(![image](https://github.com/user-attachments/assets/cf45781d-6743-4c2e-9c6e-01592a5fff35)
+![image](https://github.com/user-attachments/assets/cf45781d-6743-4c2e-9c6e-01592a5fff35)
 
 
 ---
