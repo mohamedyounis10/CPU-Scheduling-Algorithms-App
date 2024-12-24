@@ -48,7 +48,7 @@ This repository contains two main components:
 
 ### Welcome Screen
 
-![Welcome Screen](![image](https://github.com/user-attachments/assets/01b651a5-4cf6-4076-84b0-156fe35722d5)
+![Welcome Screen](![Screenshot 2024-12-24 205248](https://github.com/user-attachments/assets/83972a16-a743-4a87-ada7-34bcf02b60c8)
 )
 
 ### Main Application Interface
