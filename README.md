@@ -48,12 +48,12 @@ This repository contains two main components:
 
 ### Welcome Screen
 
-![Welcome Screen](![Screenshot 2024-12-24 205248](https://github.com/user-attachments/assets/83972a16-a743-4a87-ada7-34bcf02b60c8)
-)
+![Screenshot 2024-12-24 205248](https://github.com/user-attachments/assets/83972a16-a743-4a87-ada7-34bcf02b60c8)
+
 
 ### Main Application Interface
 
-![Main Interface](![image](https://github.com/user-attachments/assets/cf45781d-6743-4c2e-9c6e-01592a5fff35)
+(![image](https://github.com/user-attachments/assets/cf45781d-6743-4c2e-9c6e-01592a5fff35)
 
 
 ---
